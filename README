@@ -1,0 +1,1 @@
+At this point the solver does not have any sort of UI over and above the Java API, to run it you need to run the JBehave integration test that lives in src/scenario/sudoku/CanSolveSudoku.java see can_solve_sudoku for input data
